@@ -1,3 +1,32 @@
+## create3_examples (jazzy) - 1.0.0-1
+
+The packages in the `create3_examples` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy create3_examples --override-release-repository-push-url git@github.com:revyos-ros/create3_examples-release.git` on `Tue, 08 Oct 2024 07:02:45 -0000`
+
+These packages were released:
+- `create3_coverage`
+- `create3_examples_msgs`
+- `create3_examples_py`
+- `create3_lidar_slam`
+- `create3_republisher`
+- `create3_teleop`
+
+Version of package(s) in repository `create3_examples`:
+
+- upstream repository: https://github.com/iRobotEducation/create3_examples.git
+- release repository: https://github.com/revyos-ros/create3_examples-release.git
+- rosdistro version: `1.0.0-1`
+- old version: `null`
+- new version: `1.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## create3_examples (humble) - 0.0.5-2
 
 The packages in the `create3_examples` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble create3_examples --override-release-repository-push-url git@github.com:revyos-ros/create3_examples-release.git` on `Tue, 24 Sep 2024 02:38:19 -0000`
